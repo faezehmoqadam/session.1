@@ -1,2 +1,1 @@
-
-
+CREATE TABLE mydb.samples (`id` INT NOT NULL AUTO_INCREMENT, `time` DATETIME, `value` FLOAT, PRIMARY KEY (id)) AUTO_INCREMENT=1;
